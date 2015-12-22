@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notification Buttons</string>
+    <string name="notification">Notification</string>
+    <string name="notification_title">Android Notification Tutorial</string>
+    <string name="notification_text">Notification Text</string>
+    <string name="notification_ticker">Notification Ticker</string>
+    <string name="custom_notification_title">Android Notification Tutorial</string>
+    <string name="custom_notification_text">Custom Notification Text</string>
+    <string name="close_text">Close</string>
+    <string name="rate_text">Rate</string>
+</resources>
